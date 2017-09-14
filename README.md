@@ -1,4 +1,4 @@
 # CounterWebApp
 
 
-Checking the configs
+Checking the configurations
