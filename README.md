@@ -1,4 +1,4 @@
 # CounterWebApp
 
 
-Adding my first change to repo2
+Checking the configs
