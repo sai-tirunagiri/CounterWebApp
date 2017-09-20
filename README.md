@@ -1,4 +1,4 @@
 # CounterWebApp
 
 
-Final round of checks
+Checking
